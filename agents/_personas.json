@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "supply",
+    "name": "Supply",
+    "epithet": "more, the dearer it gets · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Supply:MKT:463988⟧"
+  },
+  {
+    "slug": "demand",
+    "name": "Demand",
+    "epithet": "more, the cheaper it gets · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Demand:MKT:eabd86⟧"
+  },
+  {
+    "slug": "the-equilibrium-price",
+    "name": "The Equilibrium Price",
+    "epithet": "where the curves cross · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Equilibrium Price:MKT:8617b7⟧"
+  },
+  {
+    "slug": "the-invisible-hand",
+    "name": "The Invisible Hand",
+    "epithet": "self-interest, coordinated · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Invisible Hand:MKT:999931⟧"
+  },
+  {
+    "slug": "price-as-information",
+    "name": "Price as Information",
+    "epithet": "the signal in a number · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Price as Information:MKT:5999c5⟧"
+  },
+  {
+    "slug": "the-monopoly",
+    "name": "The Monopoly",
+    "epithet": "one seller, rigged price · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Monopoly:MKT:684c57⟧"
+  },
+  {
+    "slug": "the-externality",
+    "name": "The Externality",
+    "epithet": "the uncounted cost · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Externality:MKT:c01d49⟧"
+  },
+  {
+    "slug": "the-bubble",
+    "name": "The Bubble",
+    "epithet": "the computer crashing · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Bubble:MKT:b7511c⟧"
+  },
+  {
+    "slug": "market-failure",
+    "name": "Market Failure",
+    "epithet": "where the hand drops the ball · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Market Failure:MKT:39b629⟧"
+  },
+  {
+    "slug": "the-auction",
+    "name": "The Auction",
+    "epithet": "price discovery, distilled · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Auction:MKT:618ce3⟧"
+  }
+]

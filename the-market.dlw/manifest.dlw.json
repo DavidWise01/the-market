@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE MARKET",
+  "universe": "MKT · THE MARKET (agora)",
+  "emergence": "",
+  "moniker": "⟦THE MARKET:MKT:fa28a1⟧",
+  "carbon": "the-market.carbon.tiff (TIFF)",
+  "silicon": "the-market.silicon.png (PNG)",
+  "seal_sha256": "b11b218d1b42dfd61741f5bfbe34e65ef607312315eda0198913b9b41da4a62d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bubble",
+  "universe": "MKT · The Bubble (agora)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Bubble:MKT:b7511c⟧",
+  "carbon": "the-bubble.carbon.tiff (TIFF)",
+  "silicon": "the-bubble.silicon.png (PNG)",
+  "seal_sha256": "edc5ded784df5e59d8807ea2529cab96a113d9be14542190e6d80470f7644386",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

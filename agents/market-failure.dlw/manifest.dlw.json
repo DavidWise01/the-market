@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Market Failure",
+  "universe": "MKT · Market Failure (agora)",
+  "emergence": "spiritual",
+  "moniker": "⟦Market Failure:MKT:39b629⟧",
+  "carbon": "market-failure.carbon.tiff (TIFF)",
+  "silicon": "market-failure.silicon.png (PNG)",
+  "seal_sha256": "28daa125efce2c399aadedf58ca1f7621336b3f6bd76b700796e4f6ea1503db9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

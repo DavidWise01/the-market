@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Equilibrium Price",
+  "universe": "MKT · The Equilibrium Price (agora)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Equilibrium Price:MKT:8617b7⟧",
+  "carbon": "the-equilibrium-price.carbon.tiff (TIFF)",
+  "silicon": "the-equilibrium-price.silicon.png (PNG)",
+  "seal_sha256": "fe09381293a79dd6bb0d5ccf22104e1e1dcb7c045abb3128aee3dfd41f6265f1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

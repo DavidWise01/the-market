@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Invisible Hand",
+  "universe": "MKT · The Invisible Hand (agora)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Invisible Hand:MKT:999931⟧",
+  "carbon": "the-invisible-hand.carbon.tiff (TIFF)",
+  "silicon": "the-invisible-hand.silicon.png (PNG)",
+  "seal_sha256": "f10ee28bd6d2e03fbdd9b30279268710939e2d73ba5c69c0d178417858f5f1fd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

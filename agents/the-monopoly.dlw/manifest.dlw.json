@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Monopoly",
+  "universe": "MKT · The Monopoly (agora)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Monopoly:MKT:684c57⟧",
+  "carbon": "the-monopoly.carbon.tiff (TIFF)",
+  "silicon": "the-monopoly.silicon.png (PNG)",
+  "seal_sha256": "c5411dc6981d3150413cf0b06f284496524bff1fe195172d3803b7abfb311fad",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

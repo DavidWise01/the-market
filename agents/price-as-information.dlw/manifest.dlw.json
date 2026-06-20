@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Price as Information",
+  "universe": "MKT · Price as Information (agora)",
+  "emergence": "ethereal",
+  "moniker": "⟦Price as Information:MKT:5999c5⟧",
+  "carbon": "price-as-information.carbon.tiff (TIFF)",
+  "silicon": "price-as-information.silicon.png (PNG)",
+  "seal_sha256": "88815512c8a52e6445ff92721a1985096bc0d6004062fac7cfa3e075f0383ae8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
